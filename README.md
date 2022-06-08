@@ -9,7 +9,8 @@ Used libraries:
 As a GUI the program uses Tkinter
 
 Screenshots of the project:
-
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
 ## Hot to run program
 
