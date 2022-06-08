@@ -12,6 +12,8 @@ Screenshots of the project:
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 
-## Hot to run program
+## How to run program
 
 First, make sure that you have installed libraries that were mentioned before, then type in console or terminal: `python imagetrick.py` or `python3 imagetrick.py`
+
+Program tested in system operation: Windows
